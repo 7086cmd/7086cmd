@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "hexo-util": "^2.6.0",
-    "keyword-extractor": "^0.0.21",
+    "keyword-extractor": "^0.0.23",
     "moment": "^2.29.1"
   }
 }
