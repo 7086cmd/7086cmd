@@ -30,7 +30,7 @@
     "xoxo": "https://github.com/KevinOfNeu/hexo-theme-xoxo/archive/refs/heads/master.tar.gz"
   },
   "devDependencies": {
-    "hexo-util": "^2.6.0",
+    "hexo-util": "^3.0.0",
     "keyword-extractor": "^0.0.21",
     "moment": "^2.29.1"
   }
