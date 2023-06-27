@@ -24,6 +24,6 @@ As for games, I am a *Honkai: Rail Star*, *Genshin Impact*, and *Phigros* player
 
 | Game | UID | Description |
 | -- | -- | -- |
-| *Genshin Impact* | 234402064 | Have: <ol><li>Hu Tao(lv. 90) with *Constellation I* with Primordial Jade Winged-Spear(lv. 80)</li><li>Kamisato Ayaka(lv. 50)</li><li>Zhongli(lv. 80)</li></ol>
-| *Honkai: Rail Star* | 110662605 | Have: <ol><li>Seele(lv. 60) with *Constellation II* with *Cruising in the Stellar Sea* (IV, lv. 60)</li><li>Bailu(lv. 60)</li><li>Welt(lv. 50)</li></ol>Supportation Character: Seele |
-| *Phigros* | / | 菜 |
+| *Genshin Impact* | 234402064 | Have: <ol><li>Hu Tao(lv. 90) with *Constellation I* with Primordial Jade Winged-Spear(lv. 80)</li><li>Kamisato Ayaka(lv. 70)</li><li>Zhongli(lv. 80)</li></ol>
+| *Honkai: Rail Star* | 110662605 | Have: <ol><li>Seele(lv. 70) with *Constellation II* with *Cruising in the Stellar Sea* (IV, lv. 70)</li><li>Bailu(lv. 70)</li><li>Gepard(lv. 70)</li><li>Welt(lv. 60)</li></ol>Supportation Character: Seele |
+| *Phigros* | / | 刚入坑，菜，`rks` 6 都没到 |
