@@ -16,7 +16,7 @@ As the old saying goes, "One moment of negligence may cause a lifetime of regret
 > 
 > GPT 解释：这句话不是标准的汉语句子，可能是一个单纯的玩笑或绕口令。不过如果按照谐音来看，"大 Bug 病了二 Bug 瞧，三 Bug 采药四 Bug 嗷"可能是说"大 Bug"（指复杂的 Bug）出现了问题，需要调试解决。"二 Bug"（指比较普遍的 Bug）则是显示观察，"三 Bug"（指比较难找的 Bug）需要更加细致的分析取证和修复，"四 Bug"（指越来越罕见的 Bug）会让开发者发出痛苦的嗷叫声。以此来形象地描述了调试和解决软件程序中出现的 Bug 的痛苦过程。
 
-Planning to develop [*Zhihui*](/Zhihui-Platform/), and a [problem bank](/7086cmd/prob-bank).
+Planning to develop [*Zhihui*](https://github.com/Zhihui-Platform/), and a tiny [problem bank](https://github.com/7086cmd/prob-bank).
 
 Interested in what I am interested, as it is hard to explain.
 
