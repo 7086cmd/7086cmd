@@ -6,6 +6,8 @@ I am interested in `Rust`, `Python` and `TypeScript` for development, and learni
 
 ### Projects
 
+#### Daily Projects
+
 <table><tbody><tr>
 <td align="middle" width="170px">
 
@@ -17,7 +19,7 @@ Contributor
 </td>
 <td align="left" width="630px">
 
-#### Rolldown <img align="right" src="https://img.shields.io/github/stars/rolldown?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+##### Rolldown <img align="right" src="https://img.shields.io/github/stars/rolldown?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
 
 A bundler whose target is being the bundle of `Vite`.
 
@@ -40,7 +42,7 @@ Contributor
 </td>
 <td align="left" width="630px">
 
-#### Element Plus <img align="right" src="https://img.shields.io/github/stars/element-plus?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+##### Element Plus <img align="right" src="https://img.shields.io/github/stars/element-plus?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
 
 > Finish your work with much less code.
 
@@ -66,7 +68,7 @@ Creator of V4
 </td>
 <td align="left" width="630px">
 
-#### ZVMS <img align="right" src="https://img.shields.io/github/stars/zvms/zvms4-frontend?style=flat-square&color=gold" alt="GitHub repo's stars" title="GitHub repo's stars">
+##### ZVMS <img align="right" src="https://img.shields.io/github/stars/zvms/zvms4-frontend?style=flat-square&color=gold" alt="GitHub repo's stars" title="GitHub repo's stars">
 
 School Volunteer Management System for Zhenhai High School.
 
@@ -90,7 +92,7 @@ Co-creator
 </td>
 <td align="left" width="630px">
 
-#### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+##### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
 
 > A structure-oriented and unique LCDP (Low-Code Development Platform).
 
@@ -110,6 +112,10 @@ Designed for professional developers, but is intuitive and easy to use.
 </td></tr></tbody></table>
 
 > Thanks for @kermanx for the `README.md`.
+
+#### Scholarly
+
+I am currently learning Machine Learning, and made some progress. By the way, during the Winter Camp of Shenzhen InnoX 2024, I used `OpenCV`, etc. to locate the car and recognize colored block. You can refer to [This Repo](https://github.com/A3-SZInnoX-2024/localization).
 
 ### Articles
 
