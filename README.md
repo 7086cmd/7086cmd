@@ -44,12 +44,6 @@ Contributor
 
 ##### Element Plus <img align="right" src="https://img.shields.io/github/stars/element-plus?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
 
-> Finish your work with much less code.
-
-Focus on development efficiency. ImGui-like DX. Plain TypeScript is all you need.
-
-[Docs](https://refinajs.github.io/refina/) &nbsp;|&nbsp; [Repo](https://github.com/refinajs/refina) &nbsp;|&nbsp; [Why Refina.js](https://refinajs.github.io/refina/guide/why.html)
-
 <br/>
 
 </td>
