@@ -4,9 +4,15 @@ I am currently a high school student in Zhenhai High School (镇海中学), and 
 
 I am interested in `Rust`, `Python` and `TypeScript` for development, and learning Machine Learning for researching.
 
+I am an active contributor of [Rolldown](https://github.com/rolldown/rolldown) now.
+
 ### Projects
 
-#### Daily Projects
+#### Sponsorship
+
+If you like my contribution, please sponsor me with [Afadian (爱发电)](https://afdian.com/a/ethangoh) in CNY, or [Patreon](https://www.patreon.com/7086cmd) and [Open Collective](https://opencollective.com/7086cmd) in other currency. I am still preparing materials for using GitHub Sponsor.
+
+#### Working on Projects
 
 <table><tbody><tr>
 <td align="middle" width="170px">
@@ -31,23 +37,6 @@ A bundler whose target is being the bundle of `Vite`.
 </tr></tbody></table>
 
 
-<table><tbody><tr>
-<td align="middle" width="170px">
-
-<a href="https://github.com/element-plus/element-plus"><img alt="Refina logo" src="https://element-plus.org/images/element-plus-logo.svg" width="140"></a><br/>
-Contributor
-
-<br/>
-
-</td>
-<td align="left" width="630px">
-
-##### Element Plus <img align="right" src="https://img.shields.io/github/stars/element-plus?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
-
-<br/>
-
-</td>
-</tr></tbody></table>
 
 <!----------------------->
 
@@ -55,7 +44,7 @@ Contributor
 <td align="middle" width="170px">
 
 <a href="https://github.com/zvms"><img alt="ZVMS logo" src="https://v4.zvms.site/favicon.ico" width="140"></a><br/>
-Creator of V4
+Creator of V4, and provided technical support for V2 and V3.
 
 <br/>
 
@@ -73,57 +62,55 @@ School Volunteer Management System for Zhenhai High School.
 </td>
 </tr></tbody></table>
 
-<!----------------------->
 
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/Quasi-Studio/quasi"><img alt="Quasi Studio logo" src="https://raw.githubusercontent.com/Quasi-Studio/quasi/main/packages/northstar/favicon.ico" width="140"></a><br/>
-Co-creator
+Creator and First Author
 
 <br/>
 
 </td>
 <td align="left" width="630px">
 
-##### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+##### Aurora Echo
 
-> A structure-oriented and unique LCDP (Low-Code Development Platform).
+<img align="right" src="https://img.shields.io/github/stars/zzteam-rccup/aurora-echo?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
 
-Designed for professional developers, but is intuitive and easy to use.
+The candidate project of AI application developing competition in RongChang Cup held by SJTU.
 
-[Repo](https://github.com/Quasi-Studio/quasi) &nbsp;|&nbsp; [Try it](https://quasi-studio.vercel.app/)
+> Abstract:
+> 
+> Service feedback systems are widely used in daily life, but the traditional text feedback system is not vivid and direct enough.
+> Users will only give its rate and sometimes write a few words, or be required to fill in a blank with staggering amount of questions, which is not enough for the resource provider to improve its service.
+> In this paper, we propose a new feedback system, named **Aurora Echo**, which provides audio-visual feedback for the resource provider.
+> Through numerous artificial intelligence, such as LLM, we can make the system more friendly to not only user but also the resource provider.
+
+[Repo](https://github.com/zzteam-rccup/aurora-echo) &nbsp;|&nbsp; [Paper (Not Public Yet)](https://github.com/zzteam-rccup/aurora-echo-paper)
 
 <br/>
 
 </td>
 </tr></tbody></table>
 
-<table><tbody><tr><td width="800px">
+Also contributed to: [Element Plus](https://github.com/element-plus/element-plus), [VitePress](https://github.com/vuejs/vitepress). Co-creator of [Quasi Studio](https://github.com/Quasi-Studio).
 
-**Magnifique**: [DEPRACTED] Jiaochuan Academy Students' Council Management System
-
-</td></tr></tbody></table>
+Toy projects: [HoMoPlay - Play Rock, Scissors and Paper with Computer!](https://github.com/7086cmd/HoMoPlay), [`mime_more` - Fully functionality for MIME and Data URL](https://github.com/7086cmd/mime_more).
 
 > Thanks for @kermanx for the `README.md`.
 
-#### Scholarly
+#### Academic
 
-I am currently learning Machine Learning, and made some progress. By the way, during the Winter Camp of Shenzhen InnoX 2024, I used `OpenCV`, etc. to locate the car and recognize colored block. You can refer to [This Repo](https://github.com/A3-SZInnoX-2024/localization).
+- OpenCV and object recognition: [This Repo](https://github.com/A3-SZInnoX-2024/localization).
+- Machine Learning (including model training, usage of Media Pipe, PyTorch, and Llama): [Aurora Echo](https://github.com/zzteam-rccup/aurora-echo)
 
 ### Articles
 
-I have written 3 articles:
+I have written 1 article in English and 2 in Chinese, and also writing the paper of `Aurora Echo`:
 
 | Article | Repository | Language |
 | :---: | --- | :-- |
-| ``魔板'' 加持下的平抛运动定理验证实验 | [Repo](https://github.com/7086cmd/expr-2024-report/) | Chinese |
 | Mathematical Modeling of Shot Put Throwing Distance | [Repo](https://github.com/7086cmd/shot-put-essay/) | English |
-| 1978 年至 2018 年中国居民人均可支配收入和消费支出的数学模型 | [Repo](https://github.com/7086cmd/essay-2023/) | Chinese (Do not stand for my political views) |
-
-### Games
-
-I am currently playing *Honkai: Star Rail*, *Genshin Impact* and *Phigros*.
 
 ### Badges
 
