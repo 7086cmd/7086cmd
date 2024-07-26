@@ -1,6 +1,6 @@
 ## Hello, this is Ethan Goh 👋!
 
-I am currently a high school student in Zhenhai High School (镇海中学), and a graduate from Jiaochuan Academy (蛟川书院), who selects Physics, Chemistry, and Technology for CCEE.
+I am currently a high school student in Zhenhai High School (镇海中学), and a graduate from Jiaochuan Academy (蛟川书院), who selects Physics, Chemistry, and Technology for CCEE. My Chinese name is Wu Chengyu.
 
 I am interested in `Rust`, `Python` and `TypeScript` for development, and learning Machine Learning for researching.
 
