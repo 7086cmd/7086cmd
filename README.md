@@ -1,16 +1,16 @@
-## Hello, this is Ethan Goh 👋!
+Hello,
 
-I am currently a high school student in Zhenhai High School (镇海中学), and a graduate from Jiaochuan Academy (蛟川书院), who selects Physics, Chemistry, and Technology for CCEE. My Chinese name is Wu Chengyu.
+My name is Ethan Goh, and I am a high school student at Zhenhai High School. My Chinese Pinyin name is Wu Chengyu.
 
-I am interested in `Rust`, `Python` and `TypeScript` for development, and learning Machine Learning for researching.
+I am interested in learning Rust, Python, and TypeScript for development and Machine Learning for research purposes.
 
-I am an active contributor of [Rolldown](https://github.com/rolldown/rolldown) now.
+Currently, I am an active contributor to the project [Rolldown](https://github.com/rolldown/rolldown).
 
 ### Projects
 
 #### Sponsorship
 
-If you like my contribution, please sponsor me with [Afadian (爱发电)](https://afdian.com/a/ethangoh) in CNY, or [Patreon](https://www.patreon.com/7086cmd) and [Open Collective](https://opencollective.com/7086cmd) in other currency. I am still preparing materials for using GitHub Sponsor.
+If you appreciate my contribution, kindly consider sponsoring me with Afadian (爱发电) in Chinese Yuan (CNY), or Patreon (https://www.patreon.com/7086cmd) and Open Collective (https://opencollective.com/7086cmd) in other currencies. I am currently preparing materials for utilizing GitHub Sponsor.
 
 #### Working on Projects
 
