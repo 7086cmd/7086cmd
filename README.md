@@ -4,7 +4,7 @@ My name is Ethan Goh, and I am a high school student at Zhenhai High School. My 
 
 I am interested in learning Rust, Python, and TypeScript for development and Machine Learning for research purposes.
 
-Currently, I am an active contributor to the project [Rolldown](https://github.com/rolldown/rolldown).
+Currently, I am fully committed to contributing to the [Oxc](https://github.com/oxc-project/oxc) project and [Rolldown](https://github.com/rolldown/rolldown).
 
 ### Projects
 
@@ -14,11 +14,39 @@ If you appreciate my contribution, kindly consider sponsoring me with Afadian (ç
 
 #### Working on Projects
 
+
+<table><tbody><tr>
+<td align="middle" width="170px">
+
+<a href="https://github.com/oxc-project/oxc"><img alt="Slidev logo" src="https://cdn.jsdelivr.net/gh/oxc-project/oxc-assets/round-bubbles.png" width="140"></a><br/>
+Member
+
+<br/>
+
+</td>
+<td align="left" width="630px">
+
+##### Oxc <img align="right" src="https://img.shields.io/github/stars/oxc-project/oxc?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+
+A collection of JavaScript tools written in Rust
+
+[Docs](https://oxc.rs/) &nbsp;|&nbsp; [Repo](https://github.com/oxc-project/oxc)
+
+<br/>
+
+</td>
+</tr></tbody></table>
+
+
+
+<!----------------------->
+
+
 <table><tbody><tr>
 <td align="middle" width="170px">
 
 <a href="https://github.com/rolldown/rolldown"><img alt="Slidev logo" src="https://rolldown.rs/rolldown-round.svg" width="140"></a><br/>
-Contributor
+Collaborator
 
 <br/>
 
@@ -56,37 +84,6 @@ Creator of V4, and provided technical support for V2 and V3.
 School Volunteer Management System for Zhenhai High School.
 
 [Docs](https://docs.zvms.site/) &nbsp;|&nbsp; [Frontend Repo](https://github.com/zvms/zvms4-frontend) &nbsp;|&nbsp; [Backend Repo (Python)](https://github.com/zvms/zvms4-backend-python) &nbsp;|&nbsp; [Backend Repo (Rust)](https://github.com/zvms/zvms4-backend-rust) &nbsp;|&nbsp; [Website](https://v4.zvms.site/)
-
-<br/>
-
-</td>
-</tr></tbody></table>
-
-
-<table><tbody><tr>
-<td align="middle" width="170px">
-
-Creator and First Author
-
-<br/>
-
-</td>
-<td align="left" width="630px">
-
-##### Aurora Echo
-
-<img align="right" src="https://img.shields.io/github/stars/zzteam-rccup/aurora-echo?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
-
-The candidate project of AI application developing competition in RongChang Cup held by SJTU.
-
-> Abstract:
-> 
-> Service feedback systems are widely used in daily life, but the traditional text feedback system is not vivid and direct enough.
-> Users will only give its rate and sometimes write a few words, or be required to fill in a blank with staggering amount of questions, which is not enough for the resource provider to improve its service.
-> In this paper, we propose a new feedback system, named **Aurora Echo**, which provides audio-visual feedback for the resource provider.
-> Through numerous artificial intelligence, such as LLM, we can make the system more friendly to not only user but also the resource provider.
-
-[Repo](https://github.com/zzteam-rccup/aurora-echo) &nbsp;|&nbsp; [Paper (Not Public Yet)](https://github.com/zzteam-rccup/aurora-echo-paper)
 
 <br/>
 
