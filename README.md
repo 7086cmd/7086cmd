@@ -10,7 +10,7 @@ Currently, I am fully committed to contributing to the [Oxc](https://github.com/
 
 #### Sponsorship
 
-If you appreciate my contribution, kindly consider sponsoring me with Afadian (爱发电) in Chinese Yuan (CNY), or Patreon (https://www.patreon.com/7086cmd) and Open Collective (https://opencollective.com/7086cmd) in other currencies. I am currently preparing materials for utilizing GitHub Sponsor.
+If you appreciate my contribution, kindly consider sponsoring me with Afadian (爱发电) (https://afdian.com/a/ethangoh) in Chinese Yuan (CNY), or Patreon (https://www.patreon.com/7086cmd) and Open Collective (https://opencollective.com/7086cmd) in other currencies. I am currently preparing materials for utilizing GitHub Sponsor.
 
 #### Working on Projects
 
