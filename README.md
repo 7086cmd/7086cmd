@@ -1,6 +1,6 @@
 Hello,
 
-My name is Ethan Goh, and I am a high school student at Zhenhai High School. My Chinese Pinyin name is Wu Chengyu.
+My name is Ethan Wu, and I am a high school student at Zhenhai High School. My Chinese Pinyin name is Wu Chengyu.
 
 I am interested in learning Rust, Python, and TypeScript for development and Machine Learning for research purposes.
 
